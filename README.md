@@ -1,1 +1,1 @@
-Hello! This is my repository for FOGSOLS, a web application.
+Hello! This is my repository for FOGSSOLS, a web application.
